@@ -2,4 +2,4 @@
 
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Visionet_Store', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Visionet_Market', __DIR__);
